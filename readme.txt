@@ -28,4 +28,4 @@ This project is licensed under the MIT License. Please see the LICENSE file for 
 
 # Author
 
-This project was developed by Phong Van. If you have any questions or feedback, please contact me at nguyenphong22803@gmail.com.
+This project was developed by Phong Van and Thanh Dat. If you have any questions or feedback, please contact us at nguyenphong22803@gmail.com and datthanhphan1411@gmail.com .
