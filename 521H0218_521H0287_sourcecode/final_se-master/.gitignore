@@ -1,0 +1,7 @@
+*.txt
+*.docx
+*.pdf
+.vs
+/SupportDocs
+/diagram
+/report 
